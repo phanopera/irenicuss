@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="ID" type="guid" value="17f834e6-1442-b4db-3c6f-18235fed6186"/>
+            <attribute id="LayerColor" type="int32" value="0"/>
+            <attribute id="Name" type="LSString" value="_necroRoomStuff"/>
+        </node>
+    </region>
+</save>

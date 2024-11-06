@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="Layers">
+        <node id="root">
+            <children>
+                <node id="Layer">
+                    <attribute id="Object" type="guid" value="848ce2d0-2cb8-38d5-e2eb-630d4e462a8d"/>
+                </node>
+            </children>
+        </node>
+    </region>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="ID" type="guid" value="d748132a-7b50-bd46-76cb-ee2504fed7eb"/>
+            <attribute id="LayerColor" type="int32" value="0"/>
+            <attribute id="Name" type="LSString" value="_druidRoomStuff"/>
+        </node>
+    </region>
+</save>
