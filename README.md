@@ -1,4 +1,4 @@
-irenicus for Divinity: Original Sin 2 - Definitive Edition
+irenicus for BG3
 =======
 
 # Features:
@@ -8,4 +8,4 @@ irenicus for Divinity: Original Sin 2 - Definitive Edition
 * [Nexus]()
 
 # Attribution
-- [Divinity: Original Sin 2](http://store.steampowered.com/app/435150/Divinity_Original_Sin_2/), a game by [Larian Studios](http://larian.com/)
+- [Baldurs' Gate 3], a game by [Larian Studios](http://larian.com/)
